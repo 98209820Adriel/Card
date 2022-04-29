@@ -1,6 +1,7 @@
 # Card
         Card de apresentação
-        ![Card](https://user-images.githubusercontent.com/87943203/165897414-3d7cdd7f-eca5-4fbd-839a-a0c34643223b.PNG)
+        ![Card](https://user-images.githubusercontent.com/87943203/165897467-78741887-d18a-413d-a01e-b0fa46e793e8.PNG)
+
 
 
 Feito em Html e css.
